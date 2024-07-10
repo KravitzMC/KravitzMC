@@ -1,5 +1,3 @@
-# Hello World, 👋  I'm Kravitz  👋
-
 <img align="center" src="https://github.com/KravitzMC/KravitzMC/blob/main/aa4.gif"> 
 
 <p align="left"> 
@@ -8,3 +6,7 @@
 <p align="left">
 
 
+## TODO LIST
+- [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikviosion IP Camera
+- [ ] Thai Lottery Predict simulation
+- [ ] Updating Battle Realms Data Editor
