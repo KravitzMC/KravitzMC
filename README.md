@@ -9,7 +9,7 @@
 ## TODO LIST
 
 - [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
-- [ ] IP Vendor Scanner
+- [ ] IP/MAC Address Scanner for vendor information
 - [ ] Un-Handle process library
 - [ ] Fun Thai Lottery Predict simulation
 - [ ] Updating Battle Realms Data Editor
