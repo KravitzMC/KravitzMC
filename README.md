@@ -7,6 +7,6 @@
 
 
 ## TODO LIST
-- [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikviosion IP Camera
+- [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
 - [ ] Fun Thai Lottery Predict simulation by using Fluid dynamics 
 - [ ] Updating Battle Realms Data Editor
