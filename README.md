@@ -9,8 +9,8 @@
 ## TODO LIST
 
 - [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
+- [ ] Un-Handle process library
 - [ ] Fun Thai Lottery Predict simulation by using Fluid dynamics and other
 - [ ] Updating Battle Realms Data Editor
-- [ ] Unhandle child process library
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
