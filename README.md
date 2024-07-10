@@ -11,5 +11,6 @@
 - [ ] Making Mjpeg Player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
 - [ ] Fun Thai Lottery Predict simulation by using Fluid dynamics and other
 - [ ] Updating Battle Realms Data Editor
+- [ ] Unhandle library
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
