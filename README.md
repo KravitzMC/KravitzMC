@@ -12,7 +12,6 @@
 - [ ] IP/MAC Address Scanner for vendor information
 - [ ] Un-Handle process library for .NET
 - [ ] Make SharpAutoGUI .NET
-- [ ] Fun Thai Lottery ball predict simulation by using fluid mechanics + [DKF](https://arxiv.org/abs/1511.05121) 
 - [ ] Updating Battle Realms Data Editor
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
