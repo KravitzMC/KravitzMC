@@ -10,7 +10,7 @@
 
 - [ ] Making MJPEG media player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
 - [ ] IP/MAC Address Scanner for vendor information
-- [ ] Simple V2Ray Flutter
+- [ ] Simple V2Ray VPN Flutter
 - [ ] Remake & Fix bug Thai ID Card Reader 
 - [ ] Un-Handle process library for .NET
 - [ ] Make DotPixelAutoGUI .NET
