@@ -11,7 +11,6 @@
 - [ ] Making MJPEG media player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
 - [ ] IP/MAC Address Scanner for vendor information
 - [ ] Simple V2Ray VPN Kotlin
-- [ ] Remake & Fix bug Thai ID Card Reader 
 - [ ] Un-Handle process library for .NET
 - [ ] Make DotPixelAutoGUI .NET
 - [ ] Updating Battle Realms Data Editor
