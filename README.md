@@ -16,7 +16,3 @@
 - [ ] Updating Battle Realms Data Editor
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
-## Ask Skill ??
-
- ### I no need show to be superman :)
-
