@@ -13,6 +13,6 @@
 - [ ] Simple V2Ray VPN Kotlin
 - [ ] Un-Handle process library for .NET inspire from  [systeminformer](https://github.com/winsiderss/systeminformer)
 - [ ] Make DotPixelAutoGUI .NET
-- [ ] Updating Battle Realms Data Editor
+- [ ] Updating [Battle Realms Data Editor](https://github.com/MikaCybertron/Battle-Realms-Data-Editor)
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
