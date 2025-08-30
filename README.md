@@ -1,8 +1,4 @@
  
- ## “Vibe programming is absolute trash”
- 
-
-
 <img align="center" src="https://github.com/KravitzMC/KravitzMC/blob/main/aa4.gif"> 
 
 <p align="left"> 
