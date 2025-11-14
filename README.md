@@ -1,7 +1,7 @@
  
 <img align="center" src="https://github.com/KravitzMC/KravitzMC/blob/main/aa4.gif"> 
 
-## Future Plan LIST
+## Future Plan
 
 - [ ] Making MJPEG media player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
 - [ ] IP/MAC Address Scanner for vendor information
