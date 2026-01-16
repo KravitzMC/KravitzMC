@@ -11,3 +11,7 @@
 - [ ] Updating [Battle Realms Data Editor](https://github.com/MikaCybertron/Battle-Realms-Data-Editor)
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
+## Awesome List
+
+* [Awersome Crypto Forex Trading bots](https://github.com/KravitzMC/awesome-crypto-forex-trading-bots)
+
