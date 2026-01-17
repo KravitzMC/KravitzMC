@@ -1,6 +1,3 @@
- 
-<img align="center" src="https://github.com/KravitzMC/KravitzMC/blob/main/aa4.gif"> 
-
 ## Awesome List
 
 * [Awesome Crypto Forex Trading bots](https://github.com/KravitzMC/awesome-crypto-forex-trading-bots)
