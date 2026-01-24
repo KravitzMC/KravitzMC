@@ -1,6 +1,6 @@
 ## Awesome List
 
-* [Awesome Crypto Forex Trading bots](https://github.com/KravitzMC/awesome-crypto-forex-trading-bots)
+* [Awesome Crypto Trading bots](https://github.com/KravitzMC/awesome-crypto-trading-bots)
 * [Awesome Scientific Publisher Books](https://github.com/KravitzMC/awesome-company-publisher-books)
 
 ## To do Plan
