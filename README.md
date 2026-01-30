@@ -13,4 +13,3 @@
 - [ ] Updating [Battle Realms Data Editor](https://github.com/MikaCybertron/Battle-Realms-Data-Editor)
 - [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KravitzMC)](https://github.com/anuraghazra/github-readme-stats)
