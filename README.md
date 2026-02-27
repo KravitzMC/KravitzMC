@@ -6,6 +6,10 @@
 * [Awesome Crypto Trading bots](https://github.com/KravitzMC/awesome-crypto-trading-bots)
 * [Awesome Scientific Publisher Books](https://github.com/KravitzMC/awesome-company-publisher-books)
 
+## Project List
+
+* [Metatrader 5 Stealth Mode](https://github.com/KravitzMC/MT5-stealth-mode)
+
 ## To do Plan
 
 - [ ] Making MJPEG media player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
