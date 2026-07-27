@@ -3,7 +3,7 @@
 
 ## Awesome List
 
-* [Awesome Crypto Trading bots](https://github.com/KravitzMC/awesome-crypto-trading-bot-2)
+* [Awesome Crypto Trading bots 2](https://github.com/KravitzMC/awesome-crypto-trading-bot-2)
 * [Awesome Scientific Publisher Books](https://github.com/KravitzMC/awesome-company-publisher-books)
 
 ## Project List
