@@ -10,13 +10,3 @@
 
 * [Metatrader 5 Stealth Mode](https://github.com/KravitzMC/MT5-stealth-mode)
 * [Anti Followers Spam bot](https://github.com/KravitzMC/github-auto-block-account)
-  
-## To do Plan
-
-- [ ] Making MJPEG media player control instead H264/H265 decoder for Dahua/Hikvision IP Camera
-- [ ] IP/MAC Address Scanner for vendor information
-- [ ] Un-Handle process library for .NET inspire from  [systeminformer](https://github.com/winsiderss/systeminformer)
-- [ ] Make DotPixelAutoGUI .NET
-- [ ] Updating [Battle Realms Data Editor](https://github.com/MikaCybertron/Battle-Realms-Data-Editor)
-- [ ] Rust-lang binding for [Fox Toolkit GUI](http://www.fox-toolkit.org/)
-
