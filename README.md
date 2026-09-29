@@ -5,6 +5,7 @@
 
 * [Awesome Crypto Trading bots 2](https://github.com/KravitzMC/awesome-crypto-trading-bot-2)
 * [Awesome Scientific Publisher Books](https://github.com/KravitzMC/awesome-company-publisher-books)
+* [LiteDB.StudioN](https://github.com/KravitzMC/LiteDB.StudioN)
 
 ## Project List
 
