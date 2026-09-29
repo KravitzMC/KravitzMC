@@ -5,9 +5,9 @@
 
 * [Awesome Crypto Trading bots 2](https://github.com/KravitzMC/awesome-crypto-trading-bot-2)
 * [Awesome Scientific Publisher Books](https://github.com/KravitzMC/awesome-company-publisher-books)
-* [LiteDB.StudioN](https://github.com/KravitzMC/LiteDB.StudioN)
 
 ## Project List
 
+* [LiteDB.StudioN](https://github.com/KravitzMC/LiteDB.StudioN)
 * [Metatrader 5 Stealth Mode](https://github.com/KravitzMC/MT5-stealth-mode)
 * [Anti Followers Spam bot](https://github.com/KravitzMC/github-auto-block-account)
