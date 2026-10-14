@@ -11,3 +11,4 @@
 * [LiteDB.StudioN](https://github.com/KravitzMC/LiteDB.StudioN)
 * [Metatrader 5 Stealth Mode](https://github.com/KravitzMC/MT5-stealth-mode)
 * [Anti Followers Spam bot](https://github.com/KravitzMC/github-auto-block-account)
+* [SharpIPVendorLookup](https://github.com/KravitzMC/SharpIPVendorLookup) - no longer
